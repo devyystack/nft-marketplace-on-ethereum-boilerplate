@@ -1,0 +1,9 @@
+// const http = require('http');
+// // const config = require('../config');
+// const createApp = require('../src/app');
+// const models = require('../src/models');
+// const Database = require('../src/config/db.config.js');
+
+// const database = new Database(config.dbConnectionUri, models);
+// const app = createApp({ ...config, database });
+// const server = http.createServer(app);
